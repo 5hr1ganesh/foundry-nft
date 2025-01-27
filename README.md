@@ -87,8 +87,8 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 This project is licensed under the MIT License.
 
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/209fe4ca-6a96-40aa-91cb-9cf9001537f3" />
+
 
 > ❗ **IMPORTANT**
 > Add `fs_permissions = [{ access = "read", path = "./broadcast" }]` to your `foundry.toml` or DevOpsTools won't have the permissions necessary to function correctly! This is more safe than `FFI=true`.
